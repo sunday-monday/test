@@ -18,7 +18,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Ani Song Player"
+            android:text="Song Player"
             android:id="@+id/songname"
             android:layout_margin="30dp"
             android:fontFamily="cursive"
