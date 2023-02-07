@@ -1,5 +1,5 @@
 //dependencies:
-//  audioplayers: ^2.0.0
+//  audioplayers: ^0.19.1
 //  flutter:
 //    sdk: flutter
       
