@@ -45,7 +45,7 @@ class XyloPageState extends State<XyloPage> {
                 backgroundColor: Colors.amber
               ),
               onPressed: (){
-                PlayAudio(1);
+                playSound(1);
                 },
               child: Text('First'),
             ),
@@ -56,7 +56,7 @@ class XyloPageState extends State<XyloPage> {
                   backgroundColor: Colors.cyanAccent
               ),
               onPressed: (){
-                PlayAudio(2);
+                playSound(2);
                 },
               child: Text('Second'),
             ),
